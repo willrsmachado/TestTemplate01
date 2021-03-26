@@ -38,7 +38,7 @@
 # Documentação Curso Superior de Tecnologia em Banco de Dados
 
 <ol>
-<li><a href="docs/1-Contribuição do Grupo.md"> Contribuicao do Grupo</a></li>
+<li><a href="docs/1-Contribuição do Grupo.md"> Contribuição do Grupo</a></li>
 <li><a href="docs/2-Descrição da Organização.md"> Descrição da Organização</a></li>
 <li><a href="docs/3-Sumário Teórico.md"> Sumário Teórico</a></li>
 <li><a href="docs/4-Proposta de Trabalho.md"> Proposta de Trabalho</a></li>

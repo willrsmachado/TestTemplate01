@@ -1,6 +1,6 @@
-# CADASTRO DE CLIENTES
+# NOME DO PROJETO
 
-`ADS - Análise e Desenvolvimento de Sistemas`
+`Curso Superior de Tecnologia em Banco de Dados`
 
 `PROJETO - Eixo 1`
 

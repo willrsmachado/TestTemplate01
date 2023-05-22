@@ -1,7 +1,8 @@
 # Contribuição do Grupo
 
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
-TESTE TEXTO 1 WRSM
+TESTE TEXTO 1 WRSM - TESTE DIA 22/05 
+HOJE DETALHAMENTO DE USO DO GITHUB DESKTOP
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.

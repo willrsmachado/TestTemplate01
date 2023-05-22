@@ -4,7 +4,7 @@ class Teste{
 		while (i<5)
 			imprime(i++);
 		i=0;
-		imprime(999);
+		imprime(500);
 		while (i<5)
 			imprime(++i);	
 	}

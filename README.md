@@ -9,7 +9,11 @@
 ## Integrantes
 
 - Obi-Wan Kenobi 
+<<<<<<< HEAD
 - XYZZZ
+=======
+- WXYZ
+>>>>>>> 257f35c524568ad34ed08b18593e49a3406ae0c1
 - Anakin Skywalker
 - WRSMACHADO
 
